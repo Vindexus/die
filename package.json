@@ -1,0 +1,11 @@
+{
+  "name": "die",
+  "version": "1.0.0",
+  "description": "Says a message and ends the procress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
